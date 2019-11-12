@@ -1,0 +1,16 @@
+{
+    "flights": [
+        {
+            "time": "18:00", "cityFrom": "Moscow", "cityTo": "New-York", "flightNum": "123B2", "status": "delay"
+        },
+        {
+            "time": "19:00", "cityFrom": "Moscow", "cityTo": "New-York", "flightNum": "473Z3", "status": "take_off"
+        },
+        {
+            "time": "20:00", "cityFrom": "St.Petersburg", "cityTo": "New-York", "flightNum": "323C4", "status": "arriving"
+        },
+        {
+            "time": "21:00", "cityFrom": "Moscow", "cityTo": "New-York", "flightNum": "553F6", "status": "take_off"
+        }
+    ]
+  }
